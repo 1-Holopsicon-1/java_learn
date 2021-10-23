@@ -1,7 +1,5 @@
 package home.work;
 
-import java.util.Arrays;
-
 public class Main {
     public static void main(String[] args) {
         HubList<String> youList = new HubList<String>();
@@ -17,4 +15,3 @@ public class Main {
         System.out.println(youList); //[b, ccc]
     }
 }
-
